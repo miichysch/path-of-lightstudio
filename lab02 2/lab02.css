@@ -1,0 +1,38 @@
+
+
+body {
+
+    background-color: #f4f4f4;
+    color: #50507f;
+    font-family:Verdana,Arial, sans-serif;
+}
+
+header{
+background-color: #84ccc5;
+text-align: center;
+}
+h1 {
+    line-height:200%;
+}
+
+nav {
+     text-align: center;
+   font-weight: bold
+}
+
+nav a{
+    text-decoration: none;
+}
+footer{
+    background-color:#80cbc4;
+    font: size 60em;
+    font-style: italic;
+    text-align: center;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+}
